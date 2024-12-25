@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<firstLevel>
+  <firstSonOne color="yellow">sonOne</firstSonOne>
+  <firstSonTwo fontSize="20">sonTwo</firstSonTwo>
+  <firstSonThree fontSize="20">sonThree111</firstSonThree>
+</firstLevel>

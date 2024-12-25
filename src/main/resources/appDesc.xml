@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<app>
+<hostName>localhost</hostName>
+<port>9092</port>
+<applicationName>thinker-code</applicationName>
+<testPort>909911</testPort>
+</app>
